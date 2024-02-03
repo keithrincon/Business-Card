@@ -1,0 +1,37 @@
+body {
+  margin: 20px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.avatar {
+  width: 150px;
+}
+.card {
+  /* border: 1px blue solid; */
+  padding: 20px;
+  display: flex;
+  justify-content: space-around;
+  width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+  color: #2b2839;
+
+  background-color: #ddebf8;
+  border-bottom: solid 6px #d8cefe;
+
+  /* width: 600px; */
+  /* margin-left: auto; */
+  /* margin-right: auto; */
+}
+.image {
+  display: flex;
+}
+.info {
+  text-align: center;
+}
+.italic {
+  font-style: italic;
+}
+.border {
+ /* other lesson */
+  /* margin: 40px 0 0 100px  */
+}
